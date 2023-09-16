@@ -7,10 +7,16 @@ Este repositorio contiene mis apuntes y recursos relacionados con mi estudio de 
 - **inmuebles_bogota.csv**: Este archivo CSV contiene datos sobre propiedades inmobiliarias en Bogotá, Colombia.
 
 ### Clase 1
-- [**Clase 1.ipynb**](Clase-1/Clase%201.ipynb): Este cuaderno Jupyter contiene los apuntes y ejercicios de la Clase 1. En esta clase, cubrimos conceptos básicos de Data Science, como la manipulación de datos con pandas, visualización de datos y estadísticas descriptivas.
+- [**Clase 1.ipynb**](Clase%201.ipynb): En esta clase se aprende a utilizar la biblioteca Pandas para analizar datos tabulares. Se aprende a cargar datos en un DataFrame, a seleccionar filas y columnas, a calcular estadísticas básicas y a crear gráficos simples.
 
 ### Clase 2
-- [**Clase 2.ipynb**](Clase-2/Clase%202.ipynb): Proximamente
+- [**Clase 2.ipynb**](Clase%202.ipynb): En esta clase se aprende a utilizar la biblioteca Seaborn para crear gráficos más detallados y a utilizar la biblioteca Matplotlib para personalizar los gráficos y se sigue practicando el uso de Pandas.
+
+### Clase 3
+- [**Clase 3.ipynb**](Clase%203.ipynb): En esta clase se continua practicando el uso de Seaborn e introduciendo el uso de graficos de dispersión y diagramas de caja.
+### Clase 4
+- [**Clase 4.ipynb**](Clase%204.ipynb): Proximamente
+
 
 ## ¿Cómo utilizar este repositorio?
 
